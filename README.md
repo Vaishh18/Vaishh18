@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vaishh18&label=Profile%20views&color=0e75b6&style=flat" alt="vaishh18" /> </p>
 
-- 🔭 I’m currently working onking on **Taxo-Ride booking app**
+
 
 - 🌱 I’m currently learning **React,Javascript,Express js,Node js,React Native**
 
-- 💬 Ask me about **Android,MERN**
+
 
 - 📫 How to reach me **vaishnavipatil9420@gmail.com**
 
